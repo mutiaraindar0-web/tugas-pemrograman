@@ -43,4 +43,6 @@ Program kasir Sepatu Nike Air Jordan dengan diskon 10%
 **Output:**
 Barang: Sepatu Nike Air Jordan, Total Rp 1000000, Bayar Rp 900000.0
 
-Sudah berhasil di run di Google Colab
+Sudah berhasil di run di Google Colabo
+![Bukti Identitas](IMG_2896.jpeg)
+![Bukti Kasir](IMG_2897.jpeg)
